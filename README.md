@@ -1,4 +1,4 @@
-# 🥗 NutriScan - Project Showcase
+# 🥗 NutriScan - Grocery Tracking App
 
 **Your Grocery, Decoded.** NutriScan is a mobile app concept designed to make healthy eating effortless by turning your grocery list into a smart meal plan. This interactive website showcases its features, technology, and development roadmap.
 
