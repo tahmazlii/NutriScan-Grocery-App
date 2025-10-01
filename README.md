@@ -1,84 +1,53 @@
-🥗 NutriScan - Your Grocery, Decoded.
-NutriScan is a mobile grocery tracking application designed to make healthy eating simple and intuitive. It helps you track your purchases, reduce food waste, and discover new meals tailored to the ingredients you have on hand.
+# 🥗 NutriScan - Project Showcase
 
-The Problem
-Most people want to eat healthier but don't know where to start. Grocery shopping can be overwhelming, often leading to impulse buys, confusion over nutrition labels, and buying ingredients that end up going unused. NutriScan solves this by providing an easy way to track what you buy and turning it into practical, healthy meals that fit your goals.
+**Your Grocery, Decoded.** NutriScan is a mobile app concept designed to make healthy eating effortless by turning your grocery list into a smart meal plan. This interactive website showcases its features, technology, and development roadmap.
 
-✨ Features
-🛒 Grocery Tracking: Keep a digital record of all your grocery items in one place. Monitor what you buy, track expiration dates to avoid waste, and stay aligned with your nutrition goals.
+---
 
-🍎 AI Recipe Recommendations: Turn your groceries into delicious meals! NutriScan's AI suggests personalized recipes based on the ingredients you have, making healthy eating practical and effortless.
+### **[🚀 View the Live Showcase Website!](https://tahmazlii.github.io/NutriScan-Showcase/)**
 
-- 📷 Barcode Scanning (Upcoming): Future updates will allow you to scan product barcodes for instant nutritional information, making grocery tracking even faster and smarter.
+---
 
-📸 Screenshots
-Grocery List
+![NutriScan Showcase Preview](./preview.gif)
+*Click the preview above to visit the live, interactive site.*
 
-Recipe Recommendations
+## 🎯 The Problem
 
-App's main grocery list screen.
+Most people want to eat healthier but face challenges like confusing nutrition labels, impulse buys, and food waste. NutriScan bridges the gap between buying groceries and turning them into meals that align with health goals by making grocery tracking and meal planning intelligent and effortless.
 
-AI-powered recipe suggestions.
+## ✨ Core Features (App Concept)
 
+* **🛒 Grocery Tracking:** Keep a digital log of your items, monitor what you buy, and track expiration dates to reduce waste.
+* **🍎 AI-Powered Recipes:** Get personalized recipe recommendations based on the ingredients you already have in your cart.
+* **📷 Barcode Scanning (Future Feature):** Instantly scan products for nutritional information to make smarter choices at the store.
 
+## 🛠️ Technology Stack
 
+This project consists of two parts: the **showcase website** itself and the **app concept** it describes.
 
+#### **1. The Showcase Website:**
 
-🛠️ Tech Stack
-Frontend: React Native
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Backend & Database: Xano ( Working on replacing with Spring Boot )
+#### **2. The NutriScan App Concept:**
 
-OpenAi API
+* **Frontend:** React Native
+* **Backend & Database:** Xano
+* **AI Integration:** OpenAI API for recipe generation
+* **Future Backend:** Spring Boot
 
-🚀 Getting Started
-To get a local copy up and running, follow these simple steps.
+## 🗺️ Project Roadmap
 
-Prerequisites
+The project was developed over several weeks, from initial design to full integration. Key milestones included:
 
-You'll need Node.js, npm, and the Expo Go app on your mobile device.
+1.  **Weeks 1-2:** UI/UX design in Figma & core frontend implementation.
+2.  **Weeks 3-4:** Database structuring and frontend debugging.
+3.  **Weeks 5-6:** Backend API development.
+4.  **Weeks 7-8:** Full frontend/backend integration and final testing.
+5.  **Future Goals:** Enhancing the UI, implementing the barcode scanner, and migrating the backend to Spring Boot.
 
-Node.js & npm
+## ✍️ Author
 
-Expo Go
-
-Installation
-
-Clone the repository:
-
-git clone [https://github.com/your-username/nutriscan.git](https://github.com/your-username/nutriscan.git)
-
-
-Navigate to the project directory:
-
-cd nutriscan
-
-
-Install NPM packages:
-
-npm install
-
-
-Start the development server:
-
-npx expo start
-
-
-Scan the QR code with the Expo Go app on your phone.
-
-🗺️ Project Roadmap
- Enhance and implement a better UI/UX design.
-
- Integrate a more detailed third-party recipe API for richer nutritional information.
-
- Fully implement the barcode scanning functionality.
-
- Explore migrating the backend from Xano to a self-hosted solution.
-
-👤 Author
-Matin Tahmazli
-
-📄 License
-This project is open source and available under the MIT License.
-
-https://tahmazlii.github.io/NutriScan-Showcase/
+* **Matin Tahmazli** - [tahmazlii](https://github.com/tahmazlii)
